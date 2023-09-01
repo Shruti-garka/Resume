@@ -13,4 +13,5 @@ My key skills include:
 8. Machine Learning (Clustering and Regression)
 
 Eager to ignite the spark of collaboration? Together, we'll illuminate new possibilities at the intersection of biotech and data.
+
 LinkedIn: (https://www.linkedin.com/in/shruti-garka/)
